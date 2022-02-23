@@ -1,6 +1,6 @@
 # James Cort
 
-[Projects](#projects) | [Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 
 ## Introduction
 
