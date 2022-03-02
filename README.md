@@ -10,7 +10,7 @@ I am an industrious and adaptable full stack developer, seeking a position where
 
 | Name                         | Description       | Tech/tools        | Source Code |
 | ---------------------------- | ----------------- | ----------------- | :--------: |
-| **Local Lab (Team)**                  |  Web app for lendind and borrowing of items for free in one's local community  |  MERN (MongoDB, Express, React, Node  |  [Local Lab](https://github.com/msc49/llab/tree/borrow-requests-and-approvals)  |
+| **Local Lab (Team)**                  |  Web app for lendind and borrowing of items for free in one's local community  |  MERN (MongoDB, Express, React, Node  |  [Local Lab](https://github.com/j-cort/llab)  |
 | **Chitter App (Solo)**              | Mobile friendly twitter clone    | React, Jest/React Testing Library | [Chitter App](https://github.com/j-cort/frontend-api-challenge) |
 
 ## Experience
