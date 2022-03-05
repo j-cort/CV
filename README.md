@@ -1,6 +1,6 @@
 # James Cort
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
+[Projects](#projects) | [Tech-Tests](#tech-tests) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 
 ## Introduction
 
@@ -11,6 +11,13 @@ I am an industrious and adaptable full stack developer, seeking a position where
 | Name                         | Description       | Tech/tools        | Source Code |
 | ---------------------------- | ----------------- | ----------------- | :--------: |
 | **Local Lab (Team)**                  |  Web app for lendind and borrowing of items for free in one's local community  |  MERN (MongoDB, Express, React, Node  |  [Local Lab](https://github.com/j-cort/llab)  |
+| **Chitter App (Solo)**              | Mobile friendly twitter clone    | React, Jest/React Testing Library | [Chitter App](https://github.com/j-cort/frontend-api-challenge) |
+
+## Tech-Tests
+
+| Name                         | Description       | Tech/tools        | Source Code |
+| ---------------------------- | ----------------- | ----------------- | :--------: |
+| **Bank Tech Test)**                  |  Node REPL app for simulating basic bank account transactions  |  Node  |  [Bank Tech Test](https://github.com/j-cort/bank_tech_test)  |
 | **Chitter App (Solo)**              | Mobile friendly twitter clone    | React, Jest/React Testing Library | [Chitter App](https://github.com/j-cort/frontend-api-challenge) |
 
 ## Experience
