@@ -18,7 +18,6 @@ I am an industrious and adaptable full stack developer, seeking a position where
 | Name                         | Description       | Tech/tools        | Source Code |
 | ---------------------------- | ----------------- | ----------------- | :--------: |
 | **Bank Tech Test)**                  |  Node REPL app for simulating basic bank account transactions  |  Node  |  [Bank Tech Test](https://github.com/j-cort/bank_tech_test)  |
-| **Chitter App (Solo)**              | Mobile friendly twitter clone    | React, Jest/React Testing Library | [Chitter App](https://github.com/j-cort/frontend-api-challenge) |
 
 ## Experience
 
