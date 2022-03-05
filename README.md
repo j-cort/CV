@@ -17,7 +17,7 @@ I am an industrious and adaptable full stack developer, seeking a position where
 
 | Name                         | Description       | Tech/tools        | Source Code |
 | ---------------------------- | ----------------- | ----------------- | :--------: |
-| **Bank Tech Test)**                  |  Node REPL app for simulating basic bank account transactions  |  Node  |  [Bank Tech Test](https://github.com/j-cort/bank_tech_test)  |
+| **Bank Tech Test**                  |  Node REPL app for simulating basic bank account transactions  |  Node  |  [Bank Tech Test](https://github.com/j-cort/bank_tech_test)  |
 
 ## Experience
 
