@@ -1,6 +1,6 @@
 # James Cort
 
-[Projects](#projects) | [Tech-Tests](#tech-tests) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ I am an industrious and adaptable full stack developer, seeking a position where
 
 | Name                         | Description       | Tech/tools        | Source Code |
 | ---------------------------- | ----------------- | ----------------- | :---------: |
-| **Local Lab (Team)**         |  Web app for lendind and borrowing of items for free in one's local community  |  MERN (MongoDB, Express, React, Node  |  [Local Lab](https://github.com/j-cort/llab)  |
+| **Local Lab (Team)**         |  Web app for lending and borrowing of items for free in one's local community  |  MERN (MongoDB, Express, React, Node  |  [Local Lab](https://github.com/j-cort/llab)  |
 | **Chitter Social Media App** | Mobile friendly twitter clone  | React, Jest/React Testing Library | [Chitter](https://github.com/j-cort/frontend-api-challenge) |
 | **Bank Transactions App**    |  Node REPL app for simulating basic bank account transactions  |  Node  |  [Bank Account](https://github.com/j-cort/bank_tech_test)  |
 | **Tennis Club API**          |  Express API for sports club management   |  Node, Express, PostgreSQL  |  [Tennis Club](https://github.com/j-cort/tennis_club_api)  |
