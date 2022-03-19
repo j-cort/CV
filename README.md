@@ -10,10 +10,10 @@ I am an industrious and adaptable full stack developer, seeking a position where
 
 | Name                         | Description       | Tech/tools        | Source Code |
 | ---------------------------- | ----------------- | ----------------- | :---------: |
-| **Local Lab (Team)**         |  Web app for lending and borrowing of items for free in one's local community  |  MERN (MongoDB, Express, React, Node  |  [Local Lab](https://github.com/j-cort/llab)  |
-| **Chitter Social Media App** | Mobile friendly twitter clone  | React, Jest/React Testing Library | [Chitter](https://github.com/j-cort/frontend-api-challenge) |
-| **Bank Transactions App**    |  Node REPL app for simulating basic bank account transactions  |  Node  |  [Bank Account](https://github.com/j-cort/bank_tech_test)  |
-| **Tennis Club API**          |  Express API for sports club management   |  Node, Express, PostgreSQL  |  [Tennis Club](https://github.com/j-cort/tennis_club_api)  |
+| **Chitter Social Media App** | Mobile-friendly front end twitter clone  | React, Jest, React Testing Library, MSW | [Chitter](https://github.com/j-cort/frontend-api-challenge) |
+| **Tennis Club API**          | Back end Express API for sports club management   |  Node.js, Express, PostgreSQL, Jest, SuperTest  |  [Tennis Club](https://github.com/j-cort/tennis_club_api)  |
+| **Local L.A.B**         |  Full stack web app for Lending And Borrowing items for free in one's local community  |  MERN (MongoDB, Express, React, Node.js  |  [Local Lab](https://github.com/j-cort/llab)  |
+| **Bank Transactions App**    |  Node REPL app for simulating basic bank account transactions  |  Node.js, Mocha, Chai, Sinon  |  [Bank Account](https://github.com/j-cort/bank_tech_test)  |
 
 ## Experience
 
